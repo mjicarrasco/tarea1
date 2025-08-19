@@ -1,0 +1,50 @@
+*{
+    padding: 0px; margin: 0px; border: 0px;
+}
+.caja1{
+    background-color: brown;
+    padding: 20px;
+    margin: 10px;
+}
+.caja2{
+    background-color: yellow;
+    padding: 30px;
+    margin: 10px;
+
+}
+.caja3{
+    background-color: green;
+    padding: 30px;
+    margin: 10px;
+}
+.caja1-1{
+    background-color: pink;
+    padding: 30;
+    margin: 10px;
+}
+.hijo{
+    background-color: green;
+    padding: 30px;
+    margin: 10px;
+}
+.nieto{
+    background-color: red;
+    padding: 30px;
+    margin: 10px;
+}
+.bisnieto{
+    background-color: cyan;
+    padding: 30px;
+    margin: 10px;
+
+}
+.Mn{
+    background-color: blueviolet;
+    padding: 30px;
+    margin: 10px;
+}
+.dm{
+    background-color: chartreuse;
+    padding: 30px;
+    margin: 10px;
+}
